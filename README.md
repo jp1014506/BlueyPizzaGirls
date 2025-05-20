@@ -6,7 +6,7 @@ Pizza Dodger is an iOS game built in Swift using the SpriteKit framework. In thi
 
 This game was inspired by the Bluey episode titled “Pizza Girls.”
 <p align="center">
-![image](https://github.com/user-attachments/assets/f64f2892-2ae4-4551-963f-22cd3623fb8d)
+ <img src=[image](https://github.com/user-attachments/assets/f64f2892-2ae4-4551-963f-22cd3623fb8d) alt="Demo Image" width="400">
 </p>
 ## **Gameplay Overview**
 
