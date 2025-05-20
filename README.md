@@ -46,36 +46,6 @@ git clone https://github.com/your-username/pizza-dodger.git
 * **Score Display**: The current score appears in the top-right corner of the screen.  
 * **Game Over & Restart**: Once the game ends, a “Tap to Restart” label appears. Tap it to begin a new game.
 
-## **Project Structure**
-
-Lab5/
-
-├── Assets.xcassets/           // Image and audio assets
-
-│   ├── background.png
-
-│   ├── foreground.png
-
-│   ├── pizza.png
-
-│   ├── bluey.png
-
-│   └── BlueyTheme.mp3
-
-├── Collectible.swift          // Definitions for pizza sprite and drop behavior
-
-├── GameScene.swift            // Main game logic and scene management
-
-├── Player.swift               // Bluey character movement and constraints
-
-├── SpriteKitHelper.swift      // Layer ordering and physics category definitions
-
-├── GameViewController.swift   // View controller presenting the SKScene
-
-├── README.md                  // Project overview and instructions
-
-└── LICENSE                    // MIT License text
-
 ## **Customization and Extension**
 
 * **Adjust Drop Count**: In `GameScene.swift`, modify the repeat count in the pizza spawn action to change how many pizzas appear.  
