@@ -1,14 +1,12 @@
-# **Pizza Dodger: Bluey-Themed SpriteKit Game![][image1]**
+# **Pizza Girls: Bluey-Themed SpriteKit Game![][image1]**
 
 ![image](https://github.com/user-attachments/assets/0431ebff-9d25-4708-ae56-e8b3bd7acca3)
 
-Pizza Dodger is an iOS game built in Swift using the SpriteKit framework. In this game, you control Bluey and her younger sister Bingo as they catch falling pizzas in a limited sequence of drops. Your goal is to collect as many pizzas as possible without missing more than five. The game features timed pizza drops, score tracking, background music, and a restart mechanism.
+Pizza Girls is an iOS game built in Swift using the SpriteKit framework. In this game, you control Bluey and her younger sister Bingo as they catch falling pizzas in a limited sequence of drops. Your goal is to collect as many pizzas as possible without missing more than five. The game features timed pizza drops, score tracking, background music, and a restart mechanism.
 
-This game was inspired by the Bluey episode titled “Pizza Girls.”
-<p align="center">
- <img src=[image](https://github.com/user-attachments/assets/f64f2892-2ae4-4551-963f-22cd3623fb8d) alt="Demo Image" width="400">
-</p>
-## **Gameplay Overview**
+This game was inspired by the Bluey episode "Pizza Girls."
+
+![image](https://github.com/user-attachments/assets/563a8de9-a914-4fd1-b28b-5ebaa1223a89)
 
 * **Objective**: Catch falling pizzas to earn points and avoid missing too many.  
 * **Pizza Drops**: A total of 25 pizzas descend at one-second intervals from random horizontal positions.  
