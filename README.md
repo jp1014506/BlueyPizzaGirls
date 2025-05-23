@@ -1,4 +1,4 @@
-# **Pizza Girls: Bluey-Themed SpriteKit Game![][image1]**
+# **Pizza Girls: Bluey-Themed SpriteKit Game!
 
 ![image](https://github.com/user-attachments/assets/0431ebff-9d25-4708-ae56-e8b3bd7acca3)
 
